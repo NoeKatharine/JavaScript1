@@ -5,3 +5,5 @@
 /* This is a comment, too */
 var somecode = 'this code';
 
+var x = 5;
+console.log(x);
